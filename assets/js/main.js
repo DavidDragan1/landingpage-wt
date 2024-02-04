@@ -1,8 +1,4 @@
-/*
-	Eventually by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 (function() {
 
@@ -36,9 +32,12 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.jpg': 'center',
-							'images/bg02.jpg': 'center',
-							'images/bg03.jpg': 'center'
+							'images/02.jpg': 'center',
+							'images/06.jpg': 'center',
+							'images/03.jpg': 'center',
+							'images/07.jpg': 'center',
+							'images/04.jpg': 'center',
+							'images/01.jpg': 'center'
 						},
 
 					// Delay.
@@ -136,6 +135,7 @@
 
 			// Events.
 			// Note: If you're *not* using AJAX, get rid of this event listener.
+				/*
 				$form.addEventListener('submit', function(event) {
 
 					event.stopPropagation();
@@ -165,6 +165,7 @@
 						}, 750);
 
 				});
+				*/
 
 		})();
 
